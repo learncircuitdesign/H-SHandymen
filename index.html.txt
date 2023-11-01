@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>HANDYMEN H & S CONSTRUCTION INC.</title>
+<style>
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+</style>
+</head>
+<body>
+
+<center><img src="logo.jpg" alt="H & S Handymen Logo" style="width:819px;height:461px;">
+<font size="+3"><p><b><i>Proudly serving the Orange County and South Bay areas, Southern California!</p></b></i></font>
+<link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" rel="stylesheet"/>
+	<div class="container">
+	<div class="row">
+	<div class="col">
+<font size="+2"><p><b><i>Orange County: 714.386.8134</p></b></i></font>
+</div>
+	<div class="col">
+<font size="+2"><p><b><i>South Bay: 310.782.7604</p></b></i></font>
+</div>
+	</div>
+	</div>
+<font size="+2"><p><b><i>handymen2u@sbcglobal.net</p></b></i></font>
+
+</body>
+</html>
